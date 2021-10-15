@@ -10,13 +10,6 @@ You can use the website to generate badges: https://shields.io/
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/keithtyser)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/keithtyser)
 &nbsp;
-## I'm an AI/Machine Learning Enthusiast!
-
-- I’m currently working on my Master's in Artificial Intelligence at Boston University!
-  - Learning ML with a focus on theory
-  - Learning how to deploy Machine Learning/Deep Learning Models
-  - Reading papers on ML/DL/AI
-<br />
 
 ### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=keithtyser&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
