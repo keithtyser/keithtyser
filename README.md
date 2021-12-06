@@ -15,11 +15,6 @@ You can use the website to generate badges: https://shields.io/
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=keithtyser&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 ### Languages and Tools:
 
-<!-- Your github readme stats
-You can use this api: https://github.com/keithtyser/github-readme-stats
--->
-<p>
-    <img width="55%" align="right" alt="Keith's github stats" src="https://github-readme-stats.vercel.app/api?username=keithtyser&show_icons=true&hide_border=true"/>
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
