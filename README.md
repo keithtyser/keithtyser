@@ -11,8 +11,8 @@ You can use the website to generate badges: https://shields.io/
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/keithtyser)
 &nbsp;
 
-### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=keithtyser&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+<!-- ### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=keithtyser&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) -->
 ### Languages and Tools:
 
 
