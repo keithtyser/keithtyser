@@ -6,32 +6,23 @@
 # 👋 Hi, I'm Keith Tyser  
 🎖️ Army Cyber Officer | 🧠 AI/ML Engineer | 🧩 Data Scientist  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com
-?font=Fira+Code
-&weight=600
-&size=26
-&duration=3000
-&pause=800
-&color=00C853
-&center=true
-&vCenter=true
-&width=900
-&lines=AI+Engineer+%7C+Cyber+Officer+%7C+Data+Scientist;Building+LLM+Agents;Training+NanoChat+Models)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img alt="typewriter tagline" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+Cyber+Officer+%7C+Data+Scientist;Building+LLM+Agents;Training+NanoChat+Models" /></a>
 
 ---
 
 [![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/keithtyser)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keithtyser/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:keithtyser@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keithtyser/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:keithtyser@gmail.com?subject=Hello%20Keith%20—%20AI%20%2F%20Cyber%20%2F%20Data)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/keithtyser)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/keithtyser)
-![Profile Views](https://views.whatilearened.today/views/github/keithtyser/keithtyser.svg?cache=remove)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/keithtyser)
 
 ---
 
 ### 🚀 What I'm Building Now
 - 🧠 Training my own **NanoChat** model ([karpathy/nanochat](https://github.com/karpathy/nanochat))  
 - 🤖 Building **AI Agents**
+
 ---
 
 <details>
@@ -52,21 +43,15 @@
 
 ### 🌎 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keithtyser/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:keithtyser@gmail.com?subject=Hello%20Keith%20—%20AI%20%2F%20Cyber%20%2F%20Data)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:keithtyser@gmail.com?subject=Hello%20Keith%20—%20AI%20%2F%20Cyber%20%2F%20Data)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/keithtyser)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/keithtyser)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/keithtyser)
 
 ---
 
 ### ⭐ Featured Projects
 - 🧩 **[LoRA-Provenance](https://github.com/keithtyser/lora-provenance)** — tracing and analyzing model lineage in fine-tuned LLMs  
 - 🏀 **[Hoops-Elo](https://github.com/keithtyser/hoops-elo)** — basketball performance modeling and Elo rating simulation engine  
-
----
-
-### 📊 GitHub Stats
-![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=keithtyser&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keithtyser&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=keithtyser&theme=radical)
 
 ---
