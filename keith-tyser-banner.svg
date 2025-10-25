@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Keith Tyser | AI Engineer | Cyber Officer | Data Scientist">
+  <defs>
+    <!-- Gradient for main text -->
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff00ff">
+        <animate attributeName="stop-color" values="#ff00ff;#00e5ff;#ffea00;#ff00ff" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00e5ff">
+        <animate attributeName="stop-color" values="#00e5ff;#ffea00;#ff00ff;#00e5ff" dur="12s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Background animated gradient -->
+    <linearGradient id="bggrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0020">
+        <animate attributeName="stop-color" values="#0a0020;#00111f;#140016;#0a0020" dur="16s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00111f">
+        <animate attributeName="stop-color" values="#00111f;#140016;#0a0020;#00111f" dur="16s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Neon glow filter -->
+    <filter id="neon" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#ff00ff" flood-opacity="0.75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Outer pulse glow -->
+    <filter id="pulse" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="8" result="p1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" result="p2"/>
+      <feMerge>
+        <feMergeNode in="p1"/>
+        <feMergeNode in="p2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Scanline pattern -->
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="rgba(255,255,255,0.035)"/>
+    </pattern>
+
+    <!-- Star (twinkle) -->
+    <symbol id="star" viewBox="0 0 10 10">
+      <path d="M5 0 L6 4 L10 5 L6 6 L5 10 L4 6 L0 5 L4 4 Z" fill="#ffffff"/>
+    </symbol>
+  </defs>
+
+  <!-- Animated background -->
+  <rect width="1200" height="300" fill="url(#bggrad)"/>
+  <rect width="1200" height="300" fill="url(#scan)"/>
+
+  <!-- Twinkling stars -->
+  <g opacity="0.6">
+    <use href="#star" x="100" y="40">
+      <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" />
+    </use>
+    <use href="#star" x="230" y="90">
+      <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite" />
+    </use>
+    <use href="#star" x="540" y="30">
+      <animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite" />
+    </use>
+    <use href="#star" x="980" y="70">
+      <animate attributeName="opacity" values="0;1;0" dur="3.5s" repeatCount="indefinite" />
+    </use>
+    <use href="#star" x="820" y="140">
+      <animate attributeName="opacity" values="0;1;0" dur="4.5s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Title text -->
+  <g filter="url(#pulse)">
+    <text x="50%" y="48%" text-anchor="middle" font-size="70" font-weight="800" font-family="'Fira Code', 'JetBrains Mono', 'SF Mono', Consolas, monospace" fill="url(#grad1)" letter-spacing="1.5">
+      KEITH TYSER
+      <animate attributeName="letter-spacing" values="1.5;2.5;1.5" dur="10s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Subtitle with flicker -->
+  <g filter="url(#neon)">
+    <text x="50%" y="74%" text-anchor="middle" font-size="28" font-weight="600" font-family="'Fira Code', 'JetBrains Mono', 'SF Mono', Consolas, monospace" fill="url(#grad1)">
+      AI Engineer • Cyber Officer • Data Scientist
+      <animate attributeName="opacity" values="0.95;0.7;1;0.85;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Subtle horizon grid (synthwave vibes) -->
+  <g opacity="0.25">
+    <rect x="0" y="220" width="1200" height="2" fill="#00e5ff"/>
+    <rect x="0" y="240" width="1200" height="2" fill="#ff00ff"/>
+    <rect x="0" y="260" width="1200" height="2" fill="#00e5ff"/>
+    <rect x="0" y="280" width="1200" height="2" fill="#ff00ff"/>
+    <!-- verticals -->
+    <rect x="200" y="220" width="2" height="80" fill="#00e5ff"/>
+    <rect x="400" y="220" width="2" height="80" fill="#ff00ff"/>
+    <rect x="600" y="220" width="2" height="80" fill="#00e5ff"/>
+    <rect x="800" y="220" width="2" height="80" fill="#ff00ff"/>
+    <rect x="1000" y="220" width="2" height="80" fill="#00e5ff"/>
+  </g>
+</svg>
