@@ -49,9 +49,3 @@
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/keithtyser)
 
 ---
-
-### ⭐ Featured Projects
-- 🧩 **[LoRA-Provenance](https://github.com/keithtyser/lora-provenance)** — tracing and analyzing model lineage in fine-tuned LLMs  
-- 🏀 **[Hoops-Elo](https://github.com/keithtyser/hoops-elo)** — basketball performance modeling and Elo rating simulation engine  
-
----
