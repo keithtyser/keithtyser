@@ -5,15 +5,6 @@
 
 ---
 
-[![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/keithtyser)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keithtyser/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:keithtyser@gmail.com?subject=Hello%20Keith%20—%20AI%20%2F%20Cyber%20%2F%20Data)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/keithtyser)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/keithtyser)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/keithtyser)
-
----
-
 ### 🚀 What I'm Building Now
 - 🧠 Training my own **NanoChat** model ([karpathy/nanochat](https://github.com/karpathy/nanochat))  
 - 🤖 Building **AI Agents**
