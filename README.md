@@ -1,12 +1,7 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="keith-tyser-banner.svg">
-  <img alt="Keith Tyser — AI Engineer • Cyber Officer • Data Scientist" src="keith-tyser-banner.svg">
-</picture>
-
 # 👋 Hi, I'm Keith Tyser  
-🎖️ Army Cyber Officer | 🧠 AI/ML Engineer | 🧩 Data Scientist  
+🧠 AI/ML Engineer | 🧩 Data Scientist  
 
-<a href="https://git.io/typing-svg"><img alt="typewriter tagline" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+Cyber+Officer+%7C+Data+Scientist;Building+LLM+Agents;Training+NanoChat+Models" /></a>
+<a href="https://git.io/typing-svg"><img alt="typewriter tagline" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C%7C+Data+Scientist;Building+LLM+Agents;Training+Models" /></a>
 
 ---
 
