@@ -1,13 +1,9 @@
 # 👋 Hi, I'm Keith Tyser  
 🧠 AI/ML Engineer | 🧩 Data Scientist  
-
-<a href="https://git.io/typing-svg"><img alt="typewriter tagline" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=980&lines=AI+Engineer+%7C+Data+Scientist;Building+LLM+Agents;Training+Models" /></a>
-
 ---
 
 ### 🚀 What I'm Building Now
-- 🧠 Training my own **NanoChat** model ([karpathy/nanochat](https://github.com/karpathy/nanochat))  
-- 🤖 Building **AI Agents**
+- 🤖 Building **AI Agents** ([Checkout my agent Keef](https://agent.keithtyser.com/))
 
 ---
 
