@@ -3,8 +3,8 @@ keith@keithtyser.com:~$ whoami
 ai-ml engineer · data scientist · cyber ops officer (army national guard)
 m.s. in artificial intelligence, boston university
 previously: capital one · wells fargo · mit lincoln laboratory
-status: available. remarkably available.
-kaggle: 6 bronze · rank 1042/210359 · still hunting silver
+status: burning tokens.
+kaggle: 1 silver, 6 bronze · rank 1042/210359 · still hunting gold
 ```
 
 ```text
@@ -19,12 +19,11 @@ keithgpt/       1.9b llm trained from scratch with nanochat
 ```text
 keith@keithtyser.com:~$ cat lab.txt
 2x nvidia dgx spark cluster (gb10, 256gb unified, qsfp-linked)
-2x rtx pro 6000 blackwell max-q · threadripper pro workstation assembling this week
+2x rtx pro 6000 blackwell max-q 
 ```
 
 ```text
 keith@keithtyser.com:~$ cat now.txt
-- neurogolf 2026 (kaggle) — finishing hard, on the silver line
 - arc-agi-2 + arc-agi-3 (kaggle)
 - forgewright + model forge
 - agent harnesses: one great general system, or one per workflow?
