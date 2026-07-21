@@ -4,7 +4,7 @@ ai-ml engineer · data scientist · cyber ops officer (army national guard)
 m.s. in artificial intelligence, boston university
 previously: capital one · wells fargo · mit lincoln laboratory
 status: burning tokens.
-kaggle: 1 silver, 6 bronze · rank 1042/210359 · still hunting gold
+kaggle: 1 silver, 6 bronze · rank 829/209854 · still hunting gold
 ```
 
 ```text
