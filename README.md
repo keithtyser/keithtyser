@@ -4,7 +4,7 @@ ai-ml engineer · data scientist · cyber ops officer (army national guard)
 m.s. in artificial intelligence, boston university
 previously: capital one · wells fargo · mit lincoln laboratory
 status: burning tokens.
-kaggle: 1 silver, 6 bronze · rank 829/209854 · still hunting gold
+kaggle: 1 solo gold, 1 silver, 6 bronze · rank 311/212364 · competitions expert
 ```
 
 ```text
@@ -24,9 +24,7 @@ keith@keithtyser.com:~$ cat lab.txt
 
 ```text
 keith@keithtyser.com:~$ cat now.txt
-- arc-agi-2 + arc-agi-3 (kaggle)
-- forgewright + model forge
-- agent harnesses: one great general system, or one per workflow?
+- the pokemon company - ptcg ai battle challenge simulation
 ```
 
 **[keithtyser.com](https://keithtyser.com)**: press `ctrl+k` there. type `terminal`. then type `chat`
