@@ -4,7 +4,7 @@ ai-ml engineer · data scientist · cyber ops officer (army national guard)
 m.s. in artificial intelligence, boston university
 previously: capital one · wells fargo · mit lincoln laboratory
 status: burning tokens.
-kaggle: 1 solo gold, 1 silver, 6 bronze · rank 311/212364 · competitions expert
+kaggle: 1 solo gold, 2 silver, 6 bronze · rank 291/217603 · competitions master
 ```
 
 ```text
@@ -18,13 +18,13 @@ keithgpt/       1.9b llm trained from scratch with nanochat
 
 ```text
 keith@keithtyser.com:~$ cat lab.txt
-2x nvidia dgx spark cluster (gb10, 256gb unified, qsfp-linked)
-2x rtx pro 6000 blackwell max-q 
+2x rtx pro 6000 blackwell max-q, threadripper pro 9965wx
 ```
 
 ```text
 keith@keithtyser.com:~$ cat now.txt
-- the pokemon company - ptcg ai battle challenge simulation
+- arc prize 2026
+- kaggriculture
 ```
 
 **[keithtyser.com](https://keithtyser.com)**: press `ctrl+k` there. type `terminal`. then type `chat`
