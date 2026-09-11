@@ -8,15 +8,6 @@ kaggle: 1 solo gold, 2 silver, 6 bronze · rank 291/217603 · competitions maste
 ```
 
 ```text
-keith@keithtyser.com:~$ ls ~/projects
-forgewright/    multi-agent swarm that runs the whole llm post-training
-                pipeline autonomously, behind one conversational cli
-model-forge/    post-training workbench: fine-tuning, quantization, evals
-keef/           my autonomous ai agent, maintains its own site
-keithgpt/       1.9b llm trained from scratch with nanochat
-```
-
-```text
 keith@keithtyser.com:~$ cat lab.txt
 2x rtx pro 6000 blackwell max-q, threadripper pro 9965wx
 ```
@@ -24,7 +15,6 @@ keith@keithtyser.com:~$ cat lab.txt
 ```text
 keith@keithtyser.com:~$ cat now.txt
 - arc prize 2026
-- kaggriculture
 ```
 
 **[keithtyser.com](https://keithtyser.com)**: press `ctrl+k` there. type `terminal`. then type `chat`
