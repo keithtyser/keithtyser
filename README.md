@@ -14,7 +14,8 @@ keith@keithtyser.com:~$ cat lab.txt
 
 ```text
 keith@keithtyser.com:~$ cat now.txt
-- arc prize 2026
+- mastering post-training
+- building a gpu-free kernel sim for the rtx pro 6000
 ```
 
 **[keithtyser.com](https://keithtyser.com)**: press `ctrl+k` there. type `terminal`. then type `chat`
